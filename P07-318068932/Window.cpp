@@ -122,7 +122,7 @@ void Window::ManejaTeclado(GLFWwindow* window, int key, int code, int action, in
 	{
 		theWindow-> muevePlaneY += 1.0;
 	}
-	if (key == GLFW_KEY_G)
+	if (key == GLFW_KEY_G && theWindow-> muevePlaneY>-4.0)
 	{
 		theWindow-> muevePlaneY -= 1.0;
 	}
