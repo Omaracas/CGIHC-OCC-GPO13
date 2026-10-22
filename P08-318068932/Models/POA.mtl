@@ -1,0 +1,74 @@
+# Blender 5.2.2 LTS MTL File: 'POA.blend'
+# www.blender.org
+
+newmtl oni_illum_blue.004
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.001370 1.000000
+Ni 1000.000000
+d 1.000000
+illum 2
+
+newmtl oni_illum_red.004
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 1.000000 0.000000 0.000000
+Ni 1000.000000
+d 1.000000
+illum 2
+
+newmtl oni_illum_white.004
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 1.000000 1.000000 1.000000
+Ni 1000.000000
+d 1.000000
+illum 2
+
+newmtl pillar_of_autumn1.004
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1000.000000
+d 1.000000
+illum 2
+map_Kd pillar_of_autumn1_diffuse.png
+map_Ke pillar_of_autumn1_emissive.png
+map_Bump -bm 1.000000 pillar_of_autumn1_normal.png
+
+newmtl pillar_of_autumn2.004
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1000.000000
+d 1.000000
+illum 2
+map_Kd pillar_of_autumn2_diffuse.png
+
+newmtl pillar_of_autumn_details.004
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1000.000000
+d 1.000000
+illum 2
+map_Kd pillar_of_autumn_details_diffuse.png
+map_Ke pillar_of_autumn_details_emissive.png
+map_Bump -bm 1.000000 pillar_of_autumn_details_normal.png
+
+newmtl unsc_decals.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1000.000000
+d 1.000000
+illum 2
